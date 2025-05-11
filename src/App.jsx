@@ -1,11 +1,11 @@
+import { ProductProvider } from "./context/ProductContext";
+import Home from "./pages/Home";
 import "./App.css";
 
-function App() {
+export default function App() {
   return (
-    <>
-      <h1>HELLO WORLD</h1>
-    </>
+    <ProductProvider>
+      <Home />
+    </ProductProvider>
   );
 }
-
-export default App;
