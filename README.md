@@ -1,12 +1,31 @@
-# React + Vite
+# Swipe Card App (React + Vite + Capacitor)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a basic swipe card application built with **React** and **Vite**, using **JavaScript**. It replicates Tinder-style card swiping functionality. The project uses **Capacitor** to make the same codebase work on both web and mobile platforms (Android/iOS).
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Tinder-like swipe card interaction
+- Built using React and Vite
+- Cross-platform support via Capacitor
+- Android APK build available
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm
+- Android Studio (for mobile builds)
+- Git (optional)
+
+## 📥 APK Download
+
+You can download the latest Android APK here:
+
+👉 **[Download APK]([https://drive.google.com/file/d/1GceFfrN7Z3RTnFqb-yRJbY1LemOnTQCP/view?usp=sharing](https://drive.google.com/file/d/1AksIgOuZPKjntqZBuOdBxhjSz8LHdxM_/view?usp=sharing))**
+
+> This APK is built using the same source code in this repository.
+
