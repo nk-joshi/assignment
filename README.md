@@ -25,7 +25,7 @@ This is a basic swipe card application built with **React** and **Vite**, using 
 
 You can download the latest Android APK here:
 
-👉 **[Download APK]([https://drive.google.com/file/d/1GceFfrN7Z3RTnFqb-yRJbY1LemOnTQCP/view?usp=sharing](https://drive.google.com/file/d/1AksIgOuZPKjntqZBuOdBxhjSz8LHdxM_/view?usp=sharing))**
+👉 **[Download APK]([https://drive.google.com/file/d/1AksIgOuZPKjntqZBuOdBxhjSz8LHdxM_/view?usp=sharing](https://drive.google.com/file/d/1AksIgOuZPKjntqZBuOdBxhjSz8LHdxM_/view?usp=drive_link))**
 
 > This APK is built using the same source code in this repository.
 
